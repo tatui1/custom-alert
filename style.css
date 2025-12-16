@@ -9,9 +9,17 @@
 }
 
 .content {
-  background: #6d7eff;
+  background: #eaedff;
   padding: 24px;
+  height: 320px;
   width: 320px;
   border-radius: 8px;
   text-align: center;
+}
+
+.closeBtn{
+    background: brown;
+    color: rgb(255, 255, 255);
+    padding: 10px 30 px;
+    border-radius: 16 px;
 }
